@@ -57,7 +57,7 @@
 		607FACE51AFB9204008FA782 /* MMCardView_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MMCardView_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		8AB7E897AE379399F17FE39C /* MMCardView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = MMCardView.podspec; path = ../MMCardView.podspec; sourceTree = "<group>"; };
+		8AB7E897AE379399F17FE39C /* AMMCardView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = AMMCardView.podspec; path = ../AMMCardView.podspec; sourceTree = "<group>"; };
 		9E74D4E223A63D075D94E306 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		B6A8DAC16F290F2E7DC27A5C /* Pods-MMCardView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MMCardView_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MMCardView_Example/Pods-MMCardView_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		C9CBBDF5ECFA2F42D08893E8 /* Pods-MMCardView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MMCardView_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-MMCardView_Example/Pods-MMCardView_Example.release.xcconfig"; sourceTree = "<group>"; };
@@ -171,7 +171,7 @@
 		607FACF51AFB993E008FA782 /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				8AB7E897AE379399F17FE39C /* MMCardView.podspec */,
+				8AB7E897AE379399F17FE39C /* AMMCardView.podspec */,
 				9E74D4E223A63D075D94E306 /* README.md */,
 				E286112561BD029821B946A7 /* LICENSE */,
 			);

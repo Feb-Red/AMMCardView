@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'MMCardView'
+  s.name             = 'AMMCardView'
   s.version          = '1.1.2'
   s.summary          = 'Custom CollectionView'
 
@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
 
   s.description      = 'Custom CollectionView like Wallet'
 
-  s.homepage         = 'https://github.com/MillmanY/MMCardView'
+  s.homepage         = 'xxx'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Millman' => 'millmanyang@gmail.com' }
